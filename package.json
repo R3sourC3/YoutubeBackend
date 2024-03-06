@@ -10,8 +10,10 @@
   "author": "Yuvraj",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.11.22",
     "nodemon": "^3.0.3",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "typescript": "^5.3.3"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
